@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zexun Luo</title>
-    <link>mycreep.github.io/post/</link>
+    <link>Q1143316492.github.io/post/</link>
     <description>Recent content in Posts on Zexun Luo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 13 Mar 2020 00:28:58 +0800</lastBuildDate>
     
-	<atom:link href="mycreep.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="Q1143316492.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Blog</title>
-      <link>mycreep.github.io/post/first/</link>
+      <link>Q1143316492.github.io/post/first/</link>
       <pubDate>Fri, 13 Mar 2020 00:28:58 +0800</pubDate>
       
-      <guid>mycreep.github.io/post/first/</guid>
+      <guid>Q1143316492.github.io/post/first/</guid>
       <description>Hello world!</description>
     </item>
     
